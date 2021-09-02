@@ -9,7 +9,7 @@
     "mocha": "6.2.1",
     "mongo-sanitize": "1.0.1",
     "mongodb-memory-server": "^6.9.6",
-    "mongoose": "5.7.1",
+    "mongoose": "6.0.4",
     "nodemon": "^2.0.7",
     "onchange": "6.1.0",
     "snyk": "1.235.0",
